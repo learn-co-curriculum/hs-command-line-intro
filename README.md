@@ -9,7 +9,7 @@ type: intro
 #### Old School Computing
 Before your computer had a desktop with menus, icons, and folders, there was just the `terminal`. In the early days of computing, your computer might have looked something like this:
 
-<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DEC_VT100_terminal.jpg/541px-DEC_VT100_terminal.jpg" width="300">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DEC_VT100_terminal.jpg/541px-DEC_VT100_terminal.jpg" width="300">
 
 #### The Terminal (That You Won't Find at the Airport)
 Until the mid-1980s, the main way people interacted with their computer was through the terminal. It's a type of `command line interface`. To create folders or move files around, the **user has to type a text command into this intimidating black box, press enter, and the computer runs that command**.
