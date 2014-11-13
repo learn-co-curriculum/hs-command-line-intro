@@ -25,7 +25,7 @@ In this lesson, you're going to learn all the tricks that developers use every d
 
 1. Understand and explain what the terminal is and why we use it
 2. Navigate through directories using relative and absolute paths
-3. Use the `ls`, `cd`, `ls`, `mv`, `rm`, and `rm -rf` keywords
+3. Use the `pwd`, `cd`, `ls`, `mv`, `rm`, and `rm -rf` keywords
 
 #### Key Terms
 * `Terminal` : A text-based tool that allows you to communicate with your computer. The user types a line of text into a simple prompt, and the computer runs that command. On OS X your terminal is an application appropriately called Terminal. <br>
