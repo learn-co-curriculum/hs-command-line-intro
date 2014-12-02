@@ -6,7 +6,7 @@ type: intro
 
 ## Welcome to the Terminal
 
-#### Lesson Goals
+### Lesson Goals
 1. Understand and explain what the **terminal** is and why we use it
 2. Navigate through directories using **relative and absolute paths**
 3. Use the `pwd`, `cd`, `ls`, `mv`, `rm`, and `rm -rf` keywords
