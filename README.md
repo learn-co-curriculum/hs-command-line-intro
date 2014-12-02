@@ -6,11 +6,12 @@ type: intro
 
 ## Welcome to the Terminal
 
-### Lesson Goals
+### Unit Goals
 1. Understand and explain what the **terminal** is and why we use it
 2. Navigate through directories using **relative and absolute paths**
 3. Use the `pwd`, `cd`, `ls`, `mv`, `rm`, and `rm -rf` keywords
 
+---
 ### Old School Computing
 Before your computer had a desktop with menus, icons, and folders, there was just the `terminal`. In the early days of computing, your computer might have looked something like this:
 
@@ -25,6 +26,7 @@ But then the `graphical user interface` (GUI, pronounced GOO-ey) exploded on the
 ### Terminal is Still King
 Still, the terminal hasn't gone away. In fact, as a developer, the terminal will become your primary mode of communicating with your computer. It allows you to navigate more quickly and efficiently and provides a direct route to the innerworkings of your computer.
 
+---
 ### Key Terms
 * `Terminal` : A text-based tool that allows you to communicate with your computer. The user types a line of text into a simple prompt, and the computer runs that command. On OS X your terminal is an application appropriately called Terminal. <br>
 * `Graphical User Interface` : A graphical display that allows you to communicate with your computer through icons and other visual elements like pointers, folders, and menus. Think Microsoft Windows or Mac OS X.
