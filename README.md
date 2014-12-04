@@ -4,15 +4,13 @@ languages: CLI
 type: intro
 ---
 
-## Welcome to the Terminal
-
 ### Unit Goals
 + Understand and explain what the **terminal** is and why we use it
 + Navigate through directories using **relative and absolute paths**
 + Use the `pwd`, `cd`, `ls`, `mv`, `rm`, and `rm -rf` keywords
 
 ---
-### Old School Computing
+### The Terminal: Old School Computing
 Before your computer had a desktop with menus, icons, and folders, there was just the `terminal`. In the early days of computing, your computer might have looked something like this:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DEC_VT100_terminal.jpg/541px-DEC_VT100_terminal.jpg" width="300">
